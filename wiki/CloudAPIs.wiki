@@ -1,5 +1,5 @@
+#summary information considering the connection between the application and the cloud services.
 #labels Phase-Implementation
-#Information considering the connection between the application and the cloud services.
 
 = Introduction =
 
